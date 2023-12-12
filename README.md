@@ -1,4 +1,4 @@
-##User Account and Password System
+#User Account and Password System
 
 This Python program implements a simple login system for the Group B Alliance. Users can either log in with existing credentials or create a new account. The system generates secure passwords and provides feedback on their strength. Additionally, there is a feature to check the age of a user's password.
 
