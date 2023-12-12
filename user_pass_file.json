@@ -1,0 +1,265 @@
+{
+  "adca084e7640503d21bccaea182df5784541bb0faa020a604f9f311e2e4a9ad5": {
+    "hashed_username": "adca084e7640503d21bccaea182df5784541bb0faa020a604f9f311e2e4a9ad5",
+    "hashed_password": "2649772c0c6b9e937a04f1a7bf29c3951e32c014a2b3ce1833a79a7342607210",
+    "hint": "6 letters",
+    "strength": "weak",
+    "firstname": "Vincent",
+    "lastname": "Chung"
+  },
+  "1db6e87c5c66456f8325805c515bd8de4628d251794b1a2d0a50efbb99702faa": {
+    "hashed_username": "1db6e87c5c66456f8325805c515bd8de4628d251794b1a2d0a50efbb99702faa",
+    "hashed_password": "b65658276c0d5b01578cd374b7fb32f80e59d80a280f53cf3e60d434b3d2b9b8",
+    "hint": "samj",
+    "strength": "medium",
+    "firstname": "Sam",
+    "lastname": "John"
+  },
+  "fb0e6f17b78b4d04152925235fbae8a37c1ea4a4628da4015fcd8002c157b24c": {
+    "hashed_username": "fb0e6f17b78b4d04152925235fbae8a37c1ea4a4628da4015fcd8002c157b24c",
+    "hashed_password": "4e7e618a067996d41bc34e632671eaa88b1a86ba72c09b1ad08379380c25d91f",
+    "hint": "hint",
+    "strength": "medium",
+    "firstname": "Bob",
+    "lastname": "Lee"
+  },
+  "6dca42d0b3c44ce617449590dcfab9e037b479b81652fb5f1229b47f24f86b89": {
+    "hashed_username": "6dca42d0b3c44ce617449590dcfab9e037b479b81652fb5f1229b47f24f86b89",
+    "hashed_password": "d4fe4c72b09726a62ac9f016091157d76f7b30c834e21d9a42ef78b2a35e039d",
+    "hint": "apple",
+    "strength": "medium",
+    "firstname": "bob",
+    "lastname": "sam"
+  },
+  "764bb3f15249978d8decda19514961cc021d2ee8228846acef8de935e6a70295": {
+    "hashed_username": "764bb3f15249978d8decda19514961cc021d2ee8228846acef8de935e6a70295",
+    "hashed_password": "de7e7b213a9b910e2cfd52878c3a856f682373c71fe623316da165b01fa542cd",
+    "hint": "yes",
+    "strength": "medium",
+    "firstname": "Mike",
+    "lastname": "Jackson"
+  },
+  "d4e4fcbe5f6de2e67cf4ac54b5c0b3fdba0db85a83c73a27cc2f041ffc7dced1": {
+    "hashed_username": "d4e4fcbe5f6de2e67cf4ac54b5c0b3fdba0db85a83c73a27cc2f041ffc7dced1",
+    "hashed_password": "24a810686e676d9b55de569b3c5d1b6a3a88b8e2e9be0b8f91a905aeba1ac5a1",
+    "hint": "clouds",
+    "strength": "medium",
+    "firstname": "sarah",
+    "lastname": "parker"
+  },
+  "dca9bff1293ce0cbd9fe5f532b9df68fea601adf918c55f86be31e3aae76bdbd": {
+    "hashed_username": "dca9bff1293ce0cbd9fe5f532b9df68fea601adf918c55f86be31e3aae76bdbd",
+    "hashed_password": "94ae80f69890e1284abeff5c68b6592455281acc6ca1a8fc445de62d65dd8d11",
+    "hint": "8 letter",
+    "strength": "medium",
+    "firstname": "Parker",
+    "lastname": "Peter"
+  },
+  "5c24f293fdcc0f174ee677d57361ca8e5f44be5ecb12e6c4d3b5631d39b425c0": {
+    "hashed_username": "5c24f293fdcc0f174ee677d57361ca8e5f44be5ecb12e6c4d3b5631d39b425c0",
+    "hashed_password": "7c01c0f63824a85c4ea6c76f342e6ca134e0853a6e4e878138731ee25d16820f",
+    "hint": "peaches",
+    "strength": "medium",
+    "firstname": "peter",
+    "lastname": "parker"
+  },
+  "22eb7a186aed55f354725053afb65727eb93e29f0a7ad3d757c9fdab11ac820f": {
+    "hashed_username": "22eb7a186aed55f354725053afb65727eb93e29f0a7ad3d757c9fdab11ac820f",
+    "hashed_password": "4a37bc43d42fe2537a80b9ee1ef7d7006c6c7e7f69b439ac15b9ed22b4ab0317",
+    "hint": "james",
+    "strength": "medium",
+    "firstname": "james",
+    "lastname": "john"
+  },
+  "e15f0fb62b2701b14d7f7f357774eebb0b6fe6ca600cde9fe2b494846b5bf949": {
+    "hashed_username": "e15f0fb62b2701b14d7f7f357774eebb0b6fe6ca600cde9fe2b494846b5bf949",
+    "hashed_password": "c3dc8d1db0ff468a5f2b7bb810e24d1cc36c9074f130e991f3be0d1b76663849",
+    "hint": "sean",
+    "strength": "medium",
+    "firstname": "sean",
+    "lastname": "parker"
+  },
+  "fc82447ff7454f937e5200bfa86cd049d819ed88e28e60de44354d0ebf42748d": {
+    "hashed_username": "fc82447ff7454f937e5200bfa86cd049d819ed88e28e60de44354d0ebf42748d",
+    "hashed_password": "976780c80b46d0772e45e0c5e22f1b2981e5250deb4ffde8c8177f840a4f15fa",
+    "hint": "steve",
+    "strength": "medium",
+    "firstname": "steve",
+    "lastname": "jobs"
+  },
+  "3da3078a28d15c558e1810d7307597a5ffd8f812025c61abe1ee22d2de036a39": {
+    "hashed_username": "3da3078a28d15c558e1810d7307597a5ffd8f812025c61abe1ee22d2de036a39",
+    "hashed_password": "95995b1a282bc7d12be9dd930a6e35a32af795de1feae191b5bd6dd0f39dc5ef",
+    "hint": "ryan",
+    "strength": "medium",
+    "firstname": "Ryan",
+    "lastname": "Bob"
+  },
+  "b8e3fc3cabe751b7a45843d6582edb82a85954d9cf8f12bdee871da56a15d02b": {
+    "hashed_username": "b8e3fc3cabe751b7a45843d6582edb82a85954d9cf8f12bdee871da56a15d02b",
+    "hashed_password": "24233383fbb7fbe919f80c096179c1bbd4a9d0b4187417fbd50f421aeb037e0d",
+    "hint": "charlie",
+    "strength": "medium",
+    "firstname": "Charlie",
+    "lastname": "Parker"
+  },
+  "2d9b955d0bdb9500051588a9f4a4e3a686b465ccf7de4bf3a4858ee49bc52b17": {
+    "hashed_username": "2d9b955d0bdb9500051588a9f4a4e3a686b465ccf7de4bf3a4858ee49bc52b17",
+    "hashed_password": "5aaed8308a5cba57d1271e9eae96e64ac3e2527e982a09a71d30c28f8c689963",
+    "hint": "hint",
+    "strength": "weak",
+    "firstname": "ronald",
+    "lastname": "jones"
+  },
+  "ff65fef29b4c1394f63f194285608456f06515a26b49a1e3c823c0043c28878f": {
+    "hashed_username": "ff65fef29b4c1394f63f194285608456f06515a26b49a1e3c823c0043c28878f",
+    "hashed_password": "3d74b33f12a96ef12c85e3671515342321731d07a0bce47cd127b076820bcd58",
+    "hint": "hint",
+    "strength": "medium",
+    "firstname": "tom",
+    "lastname": "brady"
+  },
+  "8686abcac225341441753403d1d0e7ef28cc2d0560dacb6cc6f5b13c75a7e634": {
+    "hashed_username": "8686abcac225341441753403d1d0e7ef28cc2d0560dacb6cc6f5b13c75a7e634",
+    "hashed_password": "a1c079c6fb1cdd814da0e9bbe24147b79c6674375005dcc3d180981b221b7b40",
+    "hint": "my name",
+    "strength": "medium",
+    "firstname": "Patrick",
+    "lastname": "mahomes"
+  },
+  "6c23276bf4d648f27270e8dd9cd79c56d44d02c8320b91cfab35538252f7568d": {
+    "hashed_username": "6c23276bf4d648f27270e8dd9cd79c56d44d02c8320b91cfab35538252f7568d",
+    "hashed_password": "fc27b7c48b5c9ef2508d3419ad98fde58057694b7503eadbf66d00d97a6498fe",
+    "hint": "6",
+    "strength": "weak",
+    "firstname": "zach",
+    "lastname": "wilson"
+  },
+  "3c77484e2cdf761040a61cbc9ff85af8482433844290dce667d251f3eebdfcdd": {
+    "hashed_username": "3c77484e2cdf761040a61cbc9ff85af8482433844290dce667d251f3eebdfcdd",
+    "hashed_password": "32ae231d41392a06010661e5c00baf105c5aa39274f1c33f7021f81f7c6b5edd",
+    "hint": "long",
+    "strength": "medium",
+    "firstname": "travis",
+    "lastname": "kelce"
+  },
+  "1ae0aa87fee092cafcb4dc60e1c32cff4ec45a5ec19f5902300262b51e3fe417": {
+    "hashed_username": "1ae0aa87fee092cafcb4dc60e1c32cff4ec45a5ec19f5902300262b51e3fe417",
+    "hashed_password": "8de6b42119b455bfb808891e01c84c5b50982b77b39a2ef6271022828ea16e3f",
+    "hint": "10 letters",
+    "strength": "medium",
+    "firstname": "Josh",
+    "lastname": "Allen"
+  },
+  "8f991ee4dcff49f86546257e1af4cdedf8dcc186e88608c22baacbf6e2493edd": {
+    "hashed_username": "8f991ee4dcff49f86546257e1af4cdedf8dcc186e88608c22baacbf6e2493edd",
+    "hashed_password": "3dd3b54b408d0872002a94d0c1f6f81364528f71fceb433c7a3b8dc4092cbc8c",
+    "hint": "7 letters",
+    "strength": "weak",
+    "firstname": "Vincent",
+    "lastname": "Chung"
+  },
+  "fd70a381be30bd7efec412e75aed3be0d54dbd655409d25ae3041ea947a10938": {
+    "hashed_username": "fd70a381be30bd7efec412e75aed3be0d54dbd655409d25ae3041ea947a10938",
+    "hashed_password": "86c22219ebe5c1c28635f70950bfe0464bfb48cb1ff9177b8f1b5a3687cf090e",
+    "hint": "7 letters",
+    "strength": "weak",
+    "firstname": "John",
+    "lastname": "Smith"
+  },
+  "252f10c83610ebca1a059c0bae8255eba2f95be4d1d7bcfa89d7248a82d9f111": {
+    "hash_username": "252f10c83610ebca1a059c0bae8255eba2f95be4d1d7bcfa89d7248a82d9f111",
+    "hashed_password": "f3026c4b4b32293e2bab0bd61eedf52ac02baf286b10faf6a5415d72666c2495",
+    "hint": "oer",
+    "strength": "weak",
+    "firstname": "fg",
+    "lastname": "g"
+  },
+  "8f949fd04ad7cf4a1160ac085bc25d6c0d1a7bc788ad61fa317650ebaba5d7bd": {
+    "hash_username": "8f949fd04ad7cf4a1160ac085bc25d6c0d1a7bc788ad61fa317650ebaba5d7bd",
+    "hashed_password": "a5fca64a1ecdce7bbf5cd75d59e302776cfea0c202ed82d6ef42e37ef3d34479",
+    "hint": null,
+    "strength": "medium",
+    "firstname": "f",
+    "lastname": "f"
+  },
+  "54fd28af9e4d662ff20036fb8f7318b766d2adae7f38ee1a0c23eeea978d1d2a": {
+    "hash_username": "54fd28af9e4d662ff20036fb8f7318b766d2adae7f38ee1a0c23eeea978d1d2a",
+    "hashed_password": "8bf02520d55b4450f2cb62d7a184d656c0f0bb783ced0b98751b6d32c52fd82a",
+    "hint": null,
+    "strength": "medium",
+    "firstname": "Vincent",
+    "lastname": "CHng"
+  },
+  "fefe3d2c4e356b24e64decb13e98217e061da7e3f6fa56cacfa6838022cb1c07": {
+    "hash_username": "fefe3d2c4e356b24e64decb13e98217e061da7e3f6fa56cacfa6838022cb1c07",
+    "hashed_password": "4c2c56525291af372c6c05702835c1fddbff5df3bdbaedc3f4b159083ade11f3",
+    "hint": null,
+    "strength": "medium",
+    "firstname": "Vincent",
+    "lastname": "CHung"
+  },
+  "e64aebac80c0dfe84bed5bea0c34dfd5704e8db244e0e26029cf086bc9f3366d": {
+    "hash_username": "e64aebac80c0dfe84bed5bea0c34dfd5704e8db244e0e26029cf086bc9f3366d",
+    "hashed_password": "9653a2a31648194946f1c644568d799ac316f59c5b1d9630e2b1cda467f1f1df",
+    "hint": null,
+    "strength": "weak",
+    "firstname": "s",
+    "lastname": "d"
+  },
+  "938f877954c74db878cefb7d8f4c4ca02fe3e263533f7154f9a9d088fc8277fd": {
+    "hash_username": "938f877954c74db878cefb7d8f4c4ca02fe3e263533f7154f9a9d088fc8277fd",
+    "hashed_password": "8dff3cba5e2446ba1a4f24ceeeecaf73e253ccf3abf000ba78ff804e6b438b7d",
+    "hint": null,
+    "strength": "medium",
+    "firstname": "f",
+    "lastname": "f"
+  },
+  "c053b2d28a8c82a84bb32c02ce4c8869a07f0aa7cec49854d77834246a969b88": {
+    "hash_username": "c053b2d28a8c82a84bb32c02ce4c8869a07f0aa7cec49854d77834246a969b88",
+    "hashed_password": "67a42fe7babf513133aa61fd5e0bfe9bb0b15a1767e1848998b66777c678d63e",
+    "hint": null,
+    "strength": "weak",
+    "firstname": "r",
+    "lastname": "r"
+  },
+  "3e0a3501a65b4a7bf889c6f180cc6e35747e5aaff931cc90b760671efa09aeac": {
+    "hash_username": "3e0a3501a65b4a7bf889c6f180cc6e35747e5aaff931cc90b760671efa09aeac",
+    "hashed_password": "023cb5f017db4b2aaad38142ef4a1e7c8b326365e8aa656dcd9b0fa438d48a93",
+    "hint": null,
+    "strength": "medium",
+    "firstname": "a",
+    "lastname": "a"
+  },
+  "13429441a824828f5ae008bf99157c74f4e43dd4d9ca0bb280587be64c45bc73": {
+    "hash_username": "13429441a824828f5ae008bf99157c74f4e43dd4d9ca0bb280587be64c45bc73",
+    "hashed_password": "856102211cfe5e247f017a88b3e7912bf710505cc4e27e7e4278c8eede1f009d",
+    "hint": null,
+    "strength": "weak",
+    "firstname": "a",
+    "lastname": "a"
+  },
+  "a0d96e590f07037c44c1ea1aa3c06108fc78e91e654c2e49ada1596b6fda8e54": {
+    "hash_username": "a0d96e590f07037c44c1ea1aa3c06108fc78e91e654c2e49ada1596b6fda8e54",
+    "hashed_password": "7996db44230d87ed695fe3cf56ab137144e862be911ca1c92f4bdf71995719e2",
+    "hint": null,
+    "strength": "medium",
+    "firstname": "a",
+    "lastname": "a"
+  },
+  "55118ac286f0eb1adfb2e5fb63a3e9e8d0965894eab537126d8a2829743178ef": {
+    "hash_username": "55118ac286f0eb1adfb2e5fb63a3e9e8d0965894eab537126d8a2829743178ef",
+    "hashed_password": "133e15104601a5632ba04fdcc66d953bb322ec734c02f64205e54fc3c212739f",
+    "hint": null,
+    "strength": "weak",
+    "firstname": "d",
+    "lastname": "f"
+  },
+  "d6179c7856e002ca6ca022cb21193336f016457148179ebad1d078b0de380f94": {
+    "hash_username": "d6179c7856e002ca6ca022cb21193336f016457148179ebad1d078b0de380f94",
+    "hashed_password": "6d269f149ad591ed843769e03633bf4fb0c34d16d8e95a101d4263defb64495f",
+    "strength": "weak",
+    "firstname": "s",
+    "lastname": "s"
+  }
+}
